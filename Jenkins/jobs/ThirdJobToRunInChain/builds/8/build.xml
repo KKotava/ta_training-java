@@ -1,0 +1,41 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Job to run after simple job</upstreamProject>
+            <upstreamUrl>job/Job%20to%20run%20after%20simple%20job/</upstreamUrl>
+            <upstreamBuild>9</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>Simple job</upstreamProject>
+                <upstreamUrl>job/Simple%20job/</upstreamUrl>
+                <upstreamBuild>13</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>37</queueId>
+  <timestamp>1654196787964</timestamp>
+  <startTime>1654196787980</startTime>
+  <result>SUCCESS</result>
+  <duration>751</duration>
+  <charset>windows-1251</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\kamsp\AppData\Local\Jenkins\.jenkins\workspace\Another job to run after second job</workspace>
+  <hudsonVersion>2.349</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>

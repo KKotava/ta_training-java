@@ -1,0 +1,42 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>GithubJob</upstreamProject>
+            <upstreamUrl>job/GithubJob/</upstreamUrl>
+            <upstreamBuild>20</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UserIdCause>
+                <userId>kate</userId>
+              </hudson.model.Cause_-UserIdCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.plugins.jobConfigHistory.JobConfigBadgeAction plugin="jobConfigHistory@1146.v94c2521f9213">
+      <configDates>
+        <string>2022-06-04_00-59-37</string>
+        <string>2022-06-04_00-59-03</string>
+      </configDates>
+    </hudson.plugins.jobConfigHistory.JobConfigBadgeAction>
+  </actions>
+  <queueId>6</queueId>
+  <timestamp>1654289760676</timestamp>
+  <startTime>1654289760699</startTime>
+  <result>SUCCESS</result>
+  <duration>1432</duration>
+  <charset>windows-1251</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\kamsp\AppData\Local\Jenkins\.jenkins\workspace\RunAfterGithubJob</workspace>
+  <hudsonVersion>2.350</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>

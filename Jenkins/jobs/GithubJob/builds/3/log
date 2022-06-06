@@ -1,0 +1,11 @@
+Started by user [8mha:////4Ibk8Lv92i6FRawDe9yn5Yng8bt6UVDdWV7yz5pdJZZ8AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgYu/dLi1CL97MSSVAC82XTUvwAAAA==[0mKatsiaryna Kotava
+Running as SYSTEM
+Building in workspace C:\Users\kamsp\AppData\Local\Jenkins\.jenkins\workspace\Simple job
+[Simple job] $ cmd /c call C:\Users\kamsp\AppData\Local\Temp\jenkins16855094662101017463.bat
+
+C:\Users\kamsp\AppData\Local\Jenkins\.jenkins\workspace\Simple job>ECHO Hello from jenkins! 
+Hello from jenkins!
+
+C:\Users\kamsp\AppData\Local\Jenkins\.jenkins\workspace\Simple job>exit 0 
+Triggering a new build of [8mha:////4L6l+N0RY5ammJYJTxWKDL++O9+LNSXFxPdZIyur1bKQAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZl/az8JH2v/CRVI4OSfCBRVJoHJIszcwtyUoEMkCwA0LQfxtgAAAA=[0mJob to run simple job
+Finished: SUCCESS

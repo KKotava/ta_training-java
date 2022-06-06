@@ -1,0 +1,20 @@
+Started by user [8mha:////4Ibk8Lv92i6FRawDe9yn5Yng8bt6UVDdWV7yz5pdJZZ8AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgYu/dLi1CL97MSSVAC82XTUvwAAAA==[0mKatsiaryna Kotava
+Running as SYSTEM
+Building remotely on [8mha:////4EQUMR/foVPZFOeH46sDO2P5y4f8oO9n5qzyw+jJ65RGAAAApR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZJ/eT83ILSktQifRfXYO8Q/wDdEF9nY6cAVwANSRd4zgAAAA==[0mDESKTOP-TMC3BPE (chrome win10 x64) in workspace F:\agent\workspace\Simple job
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/KKotava/ta_training-java
+ > F:\Git\cmd\git.exe init F:\agent\workspace\Simple job # timeout=10
+Fetching upstream changes from https://github.com/KKotava/ta_training-java
+ > F:\Git\cmd\git.exe --version # timeout=10
+ > git --version # 'git version 2.36.1.windows.1'
+ > F:\Git\cmd\git.exe fetch --tags --force --progress -- https://github.com/KKotava/ta_training-java +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > F:\Git\cmd\git.exe config remote.origin.url https://github.com/KKotava/ta_training-java # timeout=10
+ > F:\Git\cmd\git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > F:\Git\cmd\git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > F:\Git\cmd\git.exe rev-parse "origin/master^{commit}" # timeout=10
+ERROR: Couldn't find any revision to build. Verify the repository and branch configuration for this job.
+Triggering a new build of [8mha:////4OSJ4w9VuqEy26SRn3UbGFuq1TCTMqukjgHrIFBBoLAGAAAAsB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzpEgZt/az8JH2v/CRVI4OSfCBRVJoHJBPTSlKLgHRxZm5BTiqQAVIFAOcKqofgAAAA[0mJob to run after simple job
+Finished: FAILURE
